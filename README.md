@@ -1,0 +1,1 @@
+# rule_for_quantumultX-master
